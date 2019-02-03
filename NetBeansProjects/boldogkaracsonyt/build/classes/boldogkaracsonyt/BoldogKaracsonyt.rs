@@ -1,0 +1,2 @@
+javaapplication32.JavaApplication32
+javaapplication32.BoldogKaracsonyt
